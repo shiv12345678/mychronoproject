@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mychronoproject/static/css/main.d6e0d522.css",
+    "main.js": "/mychronoproject/static/js/main.bbf994ad.js",
+    "index.html": "/mychronoproject/index.html",
+    "main.d6e0d522.css.map": "/mychronoproject/static/css/main.d6e0d522.css.map",
+    "main.bbf994ad.js.map": "/mychronoproject/static/js/main.bbf994ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6e0d522.css",
+    "static/js/main.bbf994ad.js"
+  ]
+}
