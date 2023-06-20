@@ -1,0 +1,31 @@
+.timeline-container{
+    height:100vh;
+    width:100%;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+}
+.home-initial{
+    font-family: 'Roboto';
+    color:#000000;
+    font-size:17px;
+    font-weight:500;
+    align-self:center;
+    margin-bottom:20px;
+}
+.heading{
+    font-family: 'Roboto';
+    color:#000000;
+    font-size:28px;
+    font-weight:500;
+    align-self:center;
+    margin-bottom:20px;
+}
+.chrono-container{
+    width:85%;
+    height:85%;
+    display:flex;
+    flex-direction:column;
+    padding:auto;
+}

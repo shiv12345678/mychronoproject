@@ -1,0 +1,38 @@
+.top-container{
+    width:100%;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom:20px;
+}
+.tag-container{
+    list-style-type: none;
+    width:100%;
+    display:flex;
+    flex-wrap: wrap;
+    margin-top:25px;
+}
+.tag-list{
+    height:25px;
+    border-radius: 5px;
+    background-color: aliceblue;
+    font-family: 'Roboto';
+    color:#000000;
+    font-size:15px;
+    font-weight:400;
+    margin-right:20px;
+    margin-bottom:20px;
+    padding-left:10px;
+    padding-right:10px;
+}
+.duration-container{
+    display:flex;
+    align-items: center;
+}
+.duration{
+    font-family: 'Roboto';
+    color:#000000;
+    font-size:15px;
+    font-weight:500;
+    
+}
